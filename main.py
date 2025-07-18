@@ -1,2 +1,2 @@
 def main():
-  print("Stimulus, Interpretation, State, Response.")
+  print("Event, Interpretation, State, Response.")
